@@ -1,8 +1,7 @@
 # BancoDigital-JAVAPOO
 Working with Object Orientation with the Java language.
 
-*Um projeto simples de codificação da interação com o usuário, criando conta Corrente e Poupança do cliente no Banco com atributos 
-(nome, cpf, agência, número da conta e saldo). Contendo operações de deposito, saque e transações para conta Poupança. Feito para entrega do Desafio da Dio.*
+*Criação da conta Corrente e Poupança do cliente no Banco com atributos (nome, cpf, agência, número da conta e saldo). Contendo operações de deposito, saque e transações para conta Poupança. Feito para entrega do Desafio da Dio.*
 
 - Class Conta abstrata.
 - Interface Conta criada para implementação dos métodos Class Conta.
